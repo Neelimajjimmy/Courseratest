@@ -3,11 +3,13 @@ h1{
   font-size:200%;
     font-family:arial;
 }
-section{
+div{
   background-color:gray;
-  font-family:arial;
+  
 }
 h2{
   font-size:125%;
   font-family:arial;
 }
+p{ 
+  font_family:arial;}
