@@ -4,12 +4,15 @@ h1{
     font-family:arial;
   margin-bottom:50px;
 }
-
+body
+{ margin_left:10px;
+  margin-right:10px;
+}
 div{
   background-color:gray;
   border-sizing:border_box;
-  padding:0px,10px,10px,10px;
-  width:80%;
+
+  width:60%;
   
   float:left;
  
@@ -24,7 +27,8 @@ height:40px;
   
 }
 p{ 
-  font-family:arial;}
+  font-family:arial;
+padding:10px;}
 #ch>h2{
   background-color:maroon;
   text-color:white;
