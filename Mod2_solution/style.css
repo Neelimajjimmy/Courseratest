@@ -4,9 +4,7 @@ h1{
     font-family:arial;
   margin-bottom:30px;
 }
-*{
-  border-sizing:border-box;
-}
+
 div{
   background-color:gray;
   border:2px solid black;
