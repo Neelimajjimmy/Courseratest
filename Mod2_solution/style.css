@@ -14,8 +14,11 @@ div{
   
 }
 h2{
+  margin-top:0px;
   font-size:125%;
   font-family:arial;
+  text-align:top-left;
+  
 }
 p{ 
   font_family:arial;}
