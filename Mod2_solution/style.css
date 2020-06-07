@@ -7,28 +7,30 @@ h1{
 
 div{
   background-color:gray;
-  border:2px solid black;
+  border:1px solid black;
   padding:0px,10px,10px,10px;
   
 }
 h2{
   margin-top:0px;
+  margin-right:0px;
   font-size:125%;
   font-family:arial;
   text-align:top-right;
+  width:200px;
   
 }
 p{ 
   font-family:arial;}
 #ch>h2{
   background-color:maroon;
-  font-color:white;
+  text-color:white;
 }
 #be>h2{
   background-color:#DEB887;
-  font-color:black;
+  text-color:black;
 }
 #su>h2{
   background-color:#FF7F50;
-  font-color:red;
+  text-color:red;
 }
