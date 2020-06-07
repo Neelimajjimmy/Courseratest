@@ -5,12 +5,12 @@ h1{
   margin-bottom:50px;
 }
 body
-{ margin_left:10px;
+{ margin-left:10px;
   margin-right:10px;
 }
 div{
   background-color:gray;
-  border-sizing:border_box;
+  border-sizing:border-box;
 
   width:60%;
   
@@ -20,7 +20,7 @@ div{
 h2{
   margin-top:0px;
   margin-right:0px;
-  font-size:125%;
+  font-size:110%;
   font-family:arial;
 height:40px;
   width:70px;
