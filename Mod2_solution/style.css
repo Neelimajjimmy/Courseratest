@@ -2,17 +2,17 @@ h1{
   text-align:center;
   font-size:200%;
     font-family:arial;
-  margin-bottom:30px;
+  margin-bottom:50px;
 }
 
 div{
   background-color:gray;
   border-sizing:border_box;
   padding:0px,10px,10px,10px;
-  width:70%;
+  width:80%;
   
   float:left;
-  margin-right:20px;
+ 
 }
 h2{
   margin-top:0px;
