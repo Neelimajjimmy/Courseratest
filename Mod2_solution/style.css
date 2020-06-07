@@ -9,6 +9,8 @@ div{
   background-color:gray;
   border:1px solid black;
   padding:0px,10px,10px,10px;
+  width:300px;
+  height:300px;
   
 }
 h2{
@@ -16,8 +18,8 @@ h2{
   margin-right:0px;
   font-size:125%;
   font-family:arial;
-
-  width:200px;
+height:40px;
+  width:80px;
   
 }
 p{ 
@@ -33,4 +35,7 @@ p{
 #su>h2{
   background-color:#FF7F50;
   text-color:red;
+}
+#su{
+  float:right;
 }
