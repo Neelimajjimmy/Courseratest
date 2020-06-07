@@ -15,8 +15,20 @@ h2{
   margin-top:0px;
   font-size:125%;
   font-family:arial;
-  text-align:top-left;
+  text-align:top-right;
   
 }
 p{ 
-  font_family:arial;}
+  font-family:arial;}
+#ch>h2{
+  background-color:maroon;
+  font-color:white;
+}
+#be>h2{
+  background-color:#DEB887;
+  font-color:black;
+}
+#su>h2{
+  background-color:#FF7F50;
+  font-color:red;
+}
