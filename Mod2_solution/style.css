@@ -13,9 +13,8 @@ body
   border-sizing:border-box;
 border:1px solid black;
   width:60%;
-  
-  float:left;
- 
+   float:left;
+ clear:both;
 }
 h2{
   position:relative;
