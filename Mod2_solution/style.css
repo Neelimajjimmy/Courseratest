@@ -5,15 +5,15 @@ h1{
   margin-bottom:50px;
 }
 #contain
-{ margin-left:10px;
-  margin-right:10px;
+{ margin-left:30px;
+  margin-right:30px;
 }
 #ch,#be,#su{
   background-color:gray;
   border-sizing:border-box;
 border:1px solid black;
   width:50%;
-   float:left;
+   float:right;
 }
 
 h2{
