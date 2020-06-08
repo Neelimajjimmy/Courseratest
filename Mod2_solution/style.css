@@ -11,7 +11,7 @@ body
 #ch,#be,#su{
   background-color:gray;
   border-sizing:border-box;
-
+border:1px solid black;
   width:60%;
   
   float:left;
