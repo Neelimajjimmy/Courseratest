@@ -4,7 +4,7 @@ h1{
     font-family:arial;
   margin-bottom:50px;
 }
-body
+#contain
 { margin-left:10px;
   margin-right:10px;
 }
@@ -12,10 +12,10 @@ body
   background-color:gray;
   border-sizing:border-box;
 border:1px solid black;
-  width:60%;
+  width:50%;
    float:left;
- clear:both;
 }
+
 h2{
   position:relative;
   top:0px;
