@@ -7,6 +7,7 @@ h1{
 #contain
 { margin-left:30px;
   margin-right:30px;
+  border-sizing:border-box;
 }
 
 
@@ -36,7 +37,7 @@ padding:10px;}
 @media (min-width:992px){
   .col-lg-4{
     background-color:gray;
-  border-sizing:border-box;
+  
 border:1px solid black;
     float:left;
     width:33%;
@@ -44,7 +45,7 @@ border:1px solid black;
 @media (min-width:768px)and(max-width:991px){
  .col-mg-6,.col-mg-12{
    background-color:gray;
-  border-sizing:border-box;
+  
    border:1px solid black;}
   .col-mg-12{
     float:left;
@@ -58,7 +59,7 @@ border:1px solid black;
 @media (max-width:767px){
   .col-sg-12{
     background-color:gray;
-  border-sizing:border-box;
+  
 border:1px solid black;
     float:left;
     width:100%;
