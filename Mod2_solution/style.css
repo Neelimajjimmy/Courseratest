@@ -12,18 +12,13 @@ h1{
  
 }
 *{ border-sizing:border-box;}
-.section{
+.section{ position:relative;
    background-color:gray;
   
 border:1px solid black;
   margin-top:10px;
   margin-right:10px;
   margin-bottom:10px;
-}
-h2{
-  position:relative;
- 
-  
 }
 .ch{
    text-align:center;
