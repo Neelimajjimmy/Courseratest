@@ -14,11 +14,17 @@ h1{
    background-color:gray;
   
 border:1px solid black;
+  margin-top:10px;
+  margin-right:10px;
+  margin-bottom:10px;
+}
+h2{
+  margin-top:0px;
+  margin-right:0px;
+  text-align:right;
 }
 .ch{
-  position:relative;
-  top:auto;
-  right:auto;
+   text-align:center;
   font-size:110%;
   font-family:arial;
   height:40px;
@@ -28,7 +34,7 @@ border:1px solid black;
 
 }
 .be{
-  text-align:right;
+  text-align:center;
   font-size:110%;
   font-family:arial;
   height:40px;
@@ -37,7 +43,7 @@ border:1px solid black;
   text-color:black;
 }
 .su{
-  text-align:right;
+  text-align:center;
   font-size:110%;
   font-family:arial;
   height:40px;
