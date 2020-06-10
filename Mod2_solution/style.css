@@ -16,7 +16,9 @@ h1{
 border:1px solid black;
 }
 .ch{
-  text-align:right;
+  position:relative;
+  top:auto;
+  right:auto;
   font-size:110%;
   font-family:arial;
   height:40px;
